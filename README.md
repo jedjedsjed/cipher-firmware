@@ -1,4 +1,4 @@
-Cipher Firmware
+### *Cipher Firmware*
 
 Cipher Firmware is a next-generation penetration testing firmware designed to move beyond the limitations of existing solutions. Our goal is to provide a powerful, flexible, and community-driven platform by combining well-established tools with innovative new capabilities.
 
